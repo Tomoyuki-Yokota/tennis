@@ -1,6 +1,5 @@
-streamlit
-numpy
-cv2
-tempfile
-mediapipe 
-math
+streamlit==1.28.1
+numpy==1.26.1
+opencv-python-headless==4.5.3.56
+
+
